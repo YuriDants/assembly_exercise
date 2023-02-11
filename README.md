@@ -17,3 +17,4 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;ii. Names must be stored using .asciiz and registration numbers must be stored as a 32-bit integer, formatted as BCD, that is, every 4 bits we have a decimal digit. The first license plate number is always 1 and must not be stored. Example number plate: 112345678 will be stored in hexadecimal
 as
 12345678h (binary 0001_0010_0011_0100_0101_0110_0111_1000);
+  <br><h1> in this repository I will present 4 methods to solve this problem.<h1>
